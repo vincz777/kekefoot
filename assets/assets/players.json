@@ -972,30 +972,6 @@
     ]
   },
   {
-    "first_name": "Son",
-    "last_name": "Heung-min",
-    "clubs": [
-      {
-        "name": "Hamburger SV",
-        "start": 2010,
-        "end": 2013,
-        "country": "de"
-      },
-      {
-        "name": "Bayer Leverkusen",
-        "start": 2013,
-        "end": 2015,
-        "country": "de"
-      },
-      {
-        "name": "Tottenham Hotspur",
-        "start": 2015,
-        "end": 2025,
-        "country": "gb"
-      }
-    ]
-  },
-  {
     "first_name": "Federico",
     "last_name": "Valverde",
     "clubs": [
@@ -2444,6 +2420,2100 @@
         "start": 2020,
         "end": 2025,
         "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Ederson",
+    "last_name": "",
+    "clubs": [
+      {
+        "name": "Benfica",
+        "start": 2011,
+        "end": 2015,
+        "country": "pt"
+      },
+      {
+        "name": "Rio Ave",
+        "start": 2012,
+        "end": 2013,
+        "country": "pt"
+      },
+      {
+        "name": "Manchester City",
+        "start": 2017,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Marc-André",
+    "last_name": "ter Stegen",
+    "clubs": [
+      {
+        "name": "Borussia Mönchengladbach",
+        "start": 2011,
+        "end": 2014,
+        "country": "de"
+      },
+      {
+        "name": "Barcelona",
+        "start": 2014,
+        "end": 2025,
+        "country": "es"
+      }
+    ]
+  },
+  {
+    "first_name": "Emiliano",
+    "last_name": "Martínez",
+    "clubs": [
+      {
+        "name": "Arsenal",
+        "start": 2012,
+        "end": 2020,
+        "country": "gb"
+      },
+      {
+        "name": "Getafe",
+        "start": 2017,
+        "end": 2017,
+        "country": "es"
+      },
+      {
+        "name": "Aston Villa",
+        "start": 2020,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Yassine",
+    "last_name": "Bounou",
+    "clubs": [
+      {
+        "name": "Wydad Casablanca",
+        "start": 2010,
+        "end": 2012,
+        "country": "ma"
+      },
+      {
+        "name": "Sevilla",
+        "start": 2019,
+        "end": 2023,
+        "country": "es"
+      },
+      {
+        "name": "Al-Hilal",
+        "start": 2023,
+        "end": 2025,
+        "country": "sa"
+      }
+    ]
+  },
+  {
+    "first_name": "Aaron",
+    "last_name": "Ramsdale",
+    "clubs": [
+      {
+        "name": "Sheffield United",
+        "start": 2016,
+        "end": 2017,
+        "country": "gb"
+      },
+      {
+        "name": "Bournemouth",
+        "start": 2017,
+        "end": 2020,
+        "country": "gb"
+      },
+      {
+        "name": "Sheffield United",
+        "start": 2020,
+        "end": 2021,
+        "country": "gb"
+      },
+      {
+        "name": "Arsenal",
+        "start": 2021,
+        "end": 2024,
+        "country": "gb"
+      },
+      {
+        "name": "Southampton",
+        "start": 2024,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Jordan",
+    "last_name": "Pickford",
+    "clubs": [
+      {
+        "name": "Sunderland",
+        "start": 2011,
+        "end": 2017,
+        "country": "gb"
+      },
+      {
+        "name": "Everton",
+        "start": 2017,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Wojciech",
+    "last_name": "Szczęsny",
+    "clubs": [
+      {
+        "name": "Arsenal",
+        "start": 2009,
+        "end": 2017,
+        "country": "gb"
+      },
+      {
+        "name": "Brentford",
+        "start": 2010,
+        "end": 2010,
+        "country": "gb"
+      },
+      {
+        "name": "Roma",
+        "start": 2015,
+        "end": 2017,
+        "country": "it"
+      },
+      {
+        "name": "Juventus",
+        "start": 2017,
+        "end": 2024,
+        "country": "it"
+      },
+      {
+        "name": "Barcelona",
+        "start": 2024,
+        "end": 2025,
+        "country": "es"
+      }
+    ]
+  },
+  {
+    "first_name": "Andrew",
+    "last_name": "Robertson",
+    "clubs": [
+      {
+        "name": "Dundee United",
+        "start": 2013,
+        "end": 2014,
+        "country": "gb"
+      },
+      {
+        "name": "Hull City",
+        "start": 2014,
+        "end": 2017,
+        "country": "gb"
+      },
+      {
+        "name": "Liverpool",
+        "start": 2017,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Luke",
+    "last_name": "Shaw",
+    "clubs": [
+      {
+        "name": "Southampton",
+        "start": 2012,
+        "end": 2014,
+        "country": "gb"
+      },
+      {
+        "name": "Manchester United",
+        "start": 2014,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "John",
+    "last_name": "Stones",
+    "clubs": [
+      {
+        "name": "Barnsley",
+        "start": 2012,
+        "end": 2013,
+        "country": "gb"
+      },
+      {
+        "name": "Everton",
+        "start": 2013,
+        "end": 2016,
+        "country": "gb"
+      },
+      {
+        "name": "Manchester City",
+        "start": 2016,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Joško",
+    "last_name": "Gvardiol",
+    "clubs": [
+      {
+        "name": "Dinamo Zagreb",
+        "start": 2019,
+        "end": 2021,
+        "country": "hr"
+      },
+      {
+        "name": "RB Leipzig",
+        "start": 2021,
+        "end": 2023,
+        "country": "de"
+      },
+      {
+        "name": "Manchester City",
+        "start": 2023,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "William",
+    "last_name": "Saliba",
+    "clubs": [
+      {
+        "name": "Saint-Étienne",
+        "start": 2018,
+        "end": 2019,
+        "country": "fr"
+      },
+      {
+        "name": "Arsenal",
+        "start": 2019,
+        "end": 2025,
+        "country": "gb"
+      },
+      {
+        "name": "Nice",
+        "start": 2021,
+        "end": 2021,
+        "country": "fr"
+      },
+      {
+        "name": "Marseille",
+        "start": 2021,
+        "end": 2022,
+        "country": "fr"
+      }
+    ]
+  },
+  {
+    "first_name": "Eder",
+    "last_name": "Militão",
+    "clubs": [
+      {
+        "name": "São Paulo",
+        "start": 2017,
+        "end": 2018,
+        "country": "br"
+      },
+      {
+        "name": "Porto",
+        "start": 2018,
+        "end": 2019,
+        "country": "pt"
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2019,
+        "end": 2025,
+        "country": "es"
+      }
+    ]
+  },
+  {
+    "first_name": "Reece",
+    "last_name": "James",
+    "clubs": [
+      {
+        "name": "Chelsea",
+        "start": 2017,
+        "end": 2025,
+        "country": "gb"
+      },
+      {
+        "name": "Wigan Athletic",
+        "start": 2018,
+        "end": 2019,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Ben",
+    "last_name": "White",
+    "clubs": [
+      {
+        "name": "Brighton & Hove Albion",
+        "start": 2016,
+        "end": 2022,
+        "country": "gb"
+      },
+      {
+        "name": "Newport County",
+        "start": 2017,
+        "end": 2018,
+        "country": "gb"
+      },
+      {
+        "name": "Leeds United",
+        "start": 2019,
+        "end": 2020,
+        "country": "gb"
+      },
+      {
+        "name": "Arsenal",
+        "start": 2022,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Aymeric",
+    "last_name": "Laporte",
+    "clubs": [
+      {
+        "name": "Athletic Bilbao",
+        "start": 2012,
+        "end": 2018,
+        "country": "es"
+      },
+      {
+        "name": "Manchester City",
+        "start": 2018,
+        "end": 2023,
+        "country": "gb"
+      },
+      {
+        "name": "Al-Nassr",
+        "start": 2023,
+        "end": 2025,
+        "country": "sa"
+      }
+    ]
+  },
+  {
+    "first_name": "Milan",
+    "last_name": "Škriniar",
+    "clubs": [
+      {
+        "name": "Žilina",
+        "start": 2012,
+        "end": 2016,
+        "country": "sk"
+      },
+      {
+        "name": "Sampdoria",
+        "start": 2016,
+        "end": 2017,
+        "country": "it"
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2017,
+        "end": 2023,
+        "country": "it"
+      },
+      {
+        "name": "Paris Saint-Germain",
+        "start": 2023,
+        "end": 2025,
+        "country": "fr"
+      },
+      {
+        "name": "Fenerbahçe",
+        "start": 2024,
+        "end": 2025,
+        "country": "tr"
+      }
+    ]
+  },
+  {
+    "first_name": "José",
+    "last_name": "Giménez",
+    "clubs": [
+      {
+        "name": "Danubio",
+        "start": 2012,
+        "end": 2013,
+        "country": "uy"
+      },
+      {
+        "name": "Atlético Madrid",
+        "start": 2013,
+        "end": 2025,
+        "country": "es"
+      }
+    ]
+  },
+  {
+    "first_name": "César",
+    "last_name": "Azpilicueta",
+    "clubs": [
+      {
+        "name": "Osasuna",
+        "start": 2007,
+        "end": 2010,
+        "country": "es"
+      },
+      {
+        "name": "Marseille",
+        "start": 2010,
+        "end": 2012,
+        "country": "fr"
+      },
+      {
+        "name": "Chelsea",
+        "start": 2012,
+        "end": 2023,
+        "country": "gb"
+      },
+      {
+        "name": "Atlético Madrid",
+        "start": 2023,
+        "end": 2025,
+        "country": "es"
+      }
+    ]
+  },
+  {
+    "first_name": "Jorginho",
+    "last_name": "",
+    "clubs": [
+      {
+        "name": "Verona",
+        "start": 2010,
+        "end": 2014,
+        "country": "it"
+      },
+      {
+        "name": "Napoli",
+        "start": 2014,
+        "end": 2018,
+        "country": "it"
+      },
+      {
+        "name": "Chelsea",
+        "start": 2018,
+        "end": 2023,
+        "country": "gb"
+      },
+      {
+        "name": "Arsenal",
+        "start": 2023,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Joshua",
+    "last_name": "Kimmich",
+    "clubs": [
+      {
+        "name": "RB Leipzig",
+        "start": 2013,
+        "end": 2015,
+        "country": "de"
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2015,
+        "end": 2025,
+        "country": "de"
+      }
+    ]
+  },
+  {
+    "first_name": "Leon",
+    "last_name": "Goretzka",
+    "clubs": [
+      {
+        "name": "Bochum",
+        "start": 2013,
+        "end": 2018,
+        "country": "de"
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2018,
+        "end": 2025,
+        "country": "de"
+      }
+    ]
+  },
+  {
+    "first_name": "Frenkie",
+    "last_name": "de Jong",
+    "clubs": [
+      {
+        "name": "Ajax",
+        "start": 2016,
+        "end": 2019,
+        "country": "nl"
+      },
+      {
+        "name": "Barcelona",
+        "start": 2019,
+        "end": 2025,
+        "country": "es"
+      }
+    ]
+  },
+  {
+    "first_name": "Serge",
+    "last_name": "Gnabry",
+    "clubs": [
+      {
+        "name": "Arsenal",
+        "start": 2012,
+        "end": 2016,
+        "country": "gb"
+      },
+      {
+        "name": "West Bromwich Albion",
+        "start": 2015,
+        "end": 2015,
+        "country": "gb"
+      },
+      {
+        "name": "Werder Bremen",
+        "start": 2016,
+        "end": 2017,
+        "country": "de"
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2017,
+        "end": 2025,
+        "country": "de"
+      }
+    ]
+  },
+  {
+    "first_name": "Marcos",
+    "last_name": "Llorente",
+    "clubs": [
+      {
+        "name": "Real Madrid",
+        "start": 2015,
+        "end": 2019,
+        "country": "es"
+      },
+      {
+        "name": "Alavés",
+        "start": 2017,
+        "end": 2018,
+        "country": "es"
+      },
+      {
+        "name": "Atlético Madrid",
+        "start": 2019,
+        "end": 2025,
+        "country": "es"
+      }
+    ]
+  },
+  {
+    "first_name": "Rodrigo",
+    "last_name": "De Paul",
+    "clubs": [
+      {
+        "name": "Racing Club",
+        "start": 2012,
+        "end": 2014,
+        "country": "ar"
+      },
+      {
+        "name": "Valencia",
+        "start": 2014,
+        "end": 2016,
+        "country": "es"
+      },
+      {
+        "name": "Udinese",
+        "start": 2016,
+        "end": 2021,
+        "country": "it"
+      },
+      {
+        "name": "Atlético Madrid",
+        "start": 2021,
+        "end": 2025,
+        "country": "es"
+      }
+    ]
+  },
+  {
+    "first_name": "Nicolò",
+    "last_name": "Barella",
+    "clubs": [
+      {
+        "name": "Cagliari",
+        "start": 2015,
+        "end": 2020,
+        "country": "it"
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2019,
+        "end": 2025,
+        "country": "it"
+      }
+    ]
+  },
+  {
+    "first_name": "Lorenzo",
+    "last_name": "Pellegrini",
+    "clubs": [
+      {
+        "name": "Sassuolo",
+        "start": 2015,
+        "end": 2017,
+        "country": "it"
+      },
+      {
+        "name": "Roma",
+        "start": 2017,
+        "end": 2025,
+        "country": "it"
+      }
+    ]
+  },
+  {
+    "first_name": "Hakan",
+    "last_name": "Çalhanoğlu",
+    "clubs": [
+      {
+        "name": "Hamburger SV",
+        "start": 2013,
+        "end": 2014,
+        "country": "de"
+      },
+      {
+        "name": "Bayer Leverkusen",
+        "start": 2014,
+        "end": 2017,
+        "country": "de"
+      },
+      {
+        "name": "AC Milan",
+        "start": 2017,
+        "end": 2021,
+        "country": "it"
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2021,
+        "end": 2025,
+        "country": "it"
+      }
+    ]
+  },
+  {
+    "first_name": "Federico",
+    "last_name": "Chiesa",
+    "clubs": [
+      {
+        "name": "Fiorentina",
+        "start": 2016,
+        "end": 2022,
+        "country": "it"
+      },
+      {
+        "name": "Juventus",
+        "start": 2020,
+        "end": 2025,
+        "country": "it"
+      }
+    ]
+  },
+  {
+    "first_name": "Sandro",
+    "last_name": "Tonali",
+    "clubs": [
+      {
+        "name": "Brescia",
+        "start": 2017,
+        "end": 2021,
+        "country": "it"
+      },
+      {
+        "name": "AC Milan",
+        "start": 2020,
+        "end": 2023,
+        "country": "it"
+      },
+      {
+        "name": "Newcastle United",
+        "start": 2023,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Nicolo",
+    "last_name": "Zaniolo",
+    "clubs": [
+      {
+        "name": "Roma",
+        "start": 2018,
+        "end": 2023,
+        "country": "it"
+      },
+      {
+        "name": "Galatasaray",
+        "start": 2023,
+        "end": 2024,
+        "country": "tr"
+      },
+      {
+        "name": "Aston Villa",
+        "start": 2023,
+        "end": 2024,
+        "country": "gb"
+      },
+      {
+        "name": "Fiorentina",
+        "start": 2024,
+        "end": 2025,
+        "country": "it"
+      }
+    ]
+  },
+  {
+    "first_name": "Fabián",
+    "last_name": "Ruiz",
+    "clubs": [
+      {
+        "name": "Real Betis",
+        "start": 2014,
+        "end": 2018,
+        "country": "es"
+      },
+      {
+        "name": "Napoli",
+        "start": 2018,
+        "end": 2022,
+        "country": "it"
+      },
+      {
+        "name": "Paris Saint-Germain",
+        "start": 2022,
+        "end": 2025,
+        "country": "fr"
+      }
+    ]
+  },
+  {
+    "first_name": "Nabil",
+    "last_name": "Fekir",
+    "clubs": [
+      {
+        "name": "Lyon",
+        "start": 2013,
+        "end": 2019,
+        "country": "fr"
+      },
+      {
+        "name": "Real Betis",
+        "start": 2019,
+        "end": 2025,
+        "country": "es"
+      }
+    ]
+  },
+  {
+    "first_name": "Memphis",
+    "last_name": "Depay",
+    "clubs": [
+      {
+        "name": "PSV Eindhoven",
+        "start": 2011,
+        "end": 2015,
+        "country": "nl"
+      },
+      {
+        "name": "Manchester United",
+        "start": 2015,
+        "end": 2017,
+        "country": "gb"
+      },
+      {
+        "name": "Lyon",
+        "start": 2017,
+        "end": 2021,
+        "country": "fr"
+      },
+      {
+        "name": "Barcelona",
+        "start": 2021,
+        "end": 2023,
+        "country": "es"
+      },
+      {
+        "name": "Atlético Madrid",
+        "start": 2023,
+        "end": 2024,
+        "country": "es"
+      },
+      {
+        "name": "Corinthians",
+        "start": 2024,
+        "end": 2025,
+        "country": "br"
+      }
+    ]
+  },
+  {
+    "first_name": "Rodrygo",
+    "last_name": "",
+    "clubs": [
+      {
+        "name": "Santos",
+        "start": 2017,
+        "end": 2019,
+        "country": "br"
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2019,
+        "end": 2025,
+        "country": "es"
+      }
+    ]
+  },
+  {
+    "first_name": "Gabriel",
+    "last_name": "Jesus",
+    "clubs": [
+      {
+        "name": "Palmeiras",
+        "start": 2015,
+        "end": 2016,
+        "country": "br"
+      },
+      {
+        "name": "Manchester City",
+        "start": 2017,
+        "end": 2022,
+        "country": "gb"
+      },
+      {
+        "name": "Arsenal",
+        "start": 2022,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Riyad",
+    "last_name": "Sterling",
+    "clubs": [
+      {
+        "name": "Liverpool",
+        "start": 2012,
+        "end": 2015,
+        "country": "gb"
+      },
+      {
+        "name": "Manchester City",
+        "start": 2015,
+        "end": 2022,
+        "country": "gb"
+      },
+      {
+        "name": "Chelsea",
+        "start": 2022,
+        "end": 2024,
+        "country": "gb"
+      },
+      {
+        "name": "Arsenal",
+        "start": 2024,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Heung-min",
+    "last_name": "Son",
+    "clubs": [
+      {
+        "name": "Hamburger SV",
+        "start": 2010,
+        "end": 2013,
+        "country": "de"
+      },
+      {
+        "name": "Bayer Leverkusen",
+        "start": 2013,
+        "end": 2015,
+        "country": "de"
+      },
+      {
+        "name": "Tottenham Hotspur",
+        "start": 2015,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Álvaro",
+    "last_name": "Morata",
+    "clubs": [
+      {
+        "name": "Real Madrid",
+        "start": 2010,
+        "end": 2014,
+        "country": "es"
+      },
+      {
+        "name": "Juventus",
+        "start": 2014,
+        "end": 2016,
+        "country": "it"
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2016,
+        "end": 2017,
+        "country": "es"
+      },
+      {
+        "name": "Chelsea",
+        "start": 2017,
+        "end": 2019,
+        "country": "gb"
+      },
+      {
+        "name": "Atlético Madrid",
+        "start": 2019,
+        "end": 2024,
+        "country": "es"
+      },
+      {
+        "name": "AC Milan",
+        "start": 2024,
+        "end": 2025,
+        "country": "it"
+      }
+    ]
+  },
+  {
+    "first_name": "Ciro",
+    "last_name": "Immobile",
+    "clubs": [
+      {
+        "name": "Torino",
+        "start": 2012,
+        "end": 2014,
+        "country": "it"
+      },
+      {
+        "name": "Borussia Dortmund",
+        "start": 2014,
+        "end": 2015,
+        "country": "de"
+      },
+      {
+        "name": "Sevilla",
+        "start": 2015,
+        "end": 2016,
+        "country": "es"
+      },
+      {
+        "name": "Lazio",
+        "start": 2016,
+        "end": 2025,
+        "country": "it"
+      }
+    ]
+  },
+  {
+    "first_name": "Dušan",
+    "last_name": "Vlahović",
+    "clubs": [
+      {
+        "name": "Partizan",
+        "start": 2016,
+        "end": 2017,
+        "country": "rs"
+      },
+      {
+        "name": "Fiorentina",
+        "start": 2018,
+        "end": 2022,
+        "country": "it"
+      },
+      {
+        "name": "Juventus",
+        "start": 2022,
+        "end": 2025,
+        "country": "it"
+      }
+    ]
+  },
+  {
+    "first_name": "Marcus",
+    "last_name": "Thuram",
+    "clubs": [
+      {
+        "name": "Sochaux",
+        "start": 2015,
+        "end": 2019,
+        "country": "fr"
+      },
+      {
+        "name": "Borussia Mönchengladbach",
+        "start": 2019,
+        "end": 2023,
+        "country": "de"
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2023,
+        "end": 2025,
+        "country": "it"
+      }
+    ]
+  },
+  {
+    "first_name": "Leroy",
+    "last_name": "Sané",
+    "clubs": [
+      {
+        "name": "Schalke 04",
+        "start": 2014,
+        "end": 2016,
+        "country": "de"
+      },
+      {
+        "name": "Manchester City",
+        "start": 2016,
+        "end": 2020,
+        "country": "gb"
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2020,
+        "end": 2025,
+        "country": "de"
+      }
+    ]
+  },
+  {
+    "first_name": "Marco",
+    "last_name": "Asensio",
+    "clubs": [
+      {
+        "name": "Mallorca",
+        "start": 2014,
+        "end": 2015,
+        "country": "es"
+      },
+      {
+        "name": "Espanyol",
+        "start": 2015,
+        "end": 2016,
+        "country": "es"
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2016,
+        "end": 2023,
+        "country": "es"
+      },
+      {
+        "name": "Paris Saint-Germain",
+        "start": 2023,
+        "end": 2025,
+        "country": "fr"
+      },
+      {
+        "name": "Aston Villa",
+        "start": 2024,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Kai",
+    "last_name": "Havertz",
+    "clubs": [
+      {
+        "name": "Bayer Leverkusen",
+        "start": 2016,
+        "end": 2020,
+        "country": "de"
+      },
+      {
+        "name": "Chelsea",
+        "start": 2020,
+        "end": 2023,
+        "country": "gb"
+      },
+      {
+        "name": "Arsenal",
+        "start": 2023,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Gabriel",
+    "last_name": "Martinelli",
+    "clubs": [
+      {
+        "name": "Ituano",
+        "start": 2017,
+        "end": 2019,
+        "country": "br"
+      },
+      {
+        "name": "Arsenal",
+        "start": 2019,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Bukayo",
+    "last_name": "Saka",
+    "clubs": [
+      {
+        "name": "Arsenal",
+        "start": 2018,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Phil",
+    "last_name": "Foden",
+    "clubs": [
+      {
+        "name": "Manchester City",
+        "start": 2017,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Kingsley",
+    "last_name": "Coman",
+    "clubs": [
+      {
+        "name": "Paris Saint-Germain",
+        "start": 2013,
+        "end": 2014,
+        "country": "fr"
+      },
+      {
+        "name": "Juventus",
+        "start": 2014,
+        "end": 2016,
+        "country": "it"
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2015,
+        "end": 2025,
+        "country": "de"
+      }
+    ]
+  },
+  {
+    "first_name": "Koke",
+    "last_name": "",
+    "clubs": [
+      {
+        "name": "Atlético Madrid",
+        "start": 2009,
+        "end": 2025,
+        "country": "es"
+      }
+    ]
+  },
+  {
+    "first_name": "Saúl",
+    "last_name": "Ñíguez",
+    "clubs": [
+      {
+        "name": "Atlético Madrid",
+        "start": 2012,
+        "end": 2025,
+        "country": "es"
+      },
+      {
+        "name": "Rayo Vallecano",
+        "start": 2013,
+        "end": 2014,
+        "country": "es"
+      },
+      {
+        "name": "Chelsea",
+        "start": 2021,
+        "end": 2022,
+        "country": "gb"
+      },
+      {
+        "name": "Sevilla",
+        "start": 2024,
+        "end": 2025,
+        "country": "es"
+      }
+    ]
+  },
+  {
+    "first_name": "Edin",
+    "last_name": "Džeko",
+    "clubs": [
+      {
+        "name": "Teplice",
+        "start": 2005,
+        "end": 2007,
+        "country": "cz"
+      },
+      {
+        "name": "Wolfsburg",
+        "start": 2007,
+        "end": 2011,
+        "country": "de"
+      },
+      {
+        "name": "Manchester City",
+        "start": 2011,
+        "end": 2015,
+        "country": "gb"
+      },
+      {
+        "name": "Roma",
+        "start": 2015,
+        "end": 2021,
+        "country": "it"
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2021,
+        "end": 2023,
+        "country": "it"
+      },
+      {
+        "name": "Fenerbahçe",
+        "start": 2023,
+        "end": 2025,
+        "country": "tr"
+      }
+    ]
+  },
+  {
+    "first_name": "Thiago",
+    "last_name": "Silva",
+    "clubs": [
+      {
+        "name": "Fluminense",
+        "start": 2006,
+        "end": 2009,
+        "country": "br"
+      },
+      {
+        "name": "AC Milan",
+        "start": 2009,
+        "end": 2012,
+        "country": "it"
+      },
+      {
+        "name": "Paris Saint-Germain",
+        "start": 2012,
+        "end": 2020,
+        "country": "fr"
+      },
+      {
+        "name": "Chelsea",
+        "start": 2020,
+        "end": 2024,
+        "country": "gb"
+      },
+      {
+        "name": "Fluminense",
+        "start": 2024,
+        "end": 2025,
+        "country": "br"
+      }
+    ]
+  },
+  {
+    "first_name": "Mats",
+    "last_name": "Hummels",
+    "clubs": [
+      {
+        "name": "Bayern Munich",
+        "start": 2006,
+        "end": 2008,
+        "country": "de"
+      },
+      {
+        "name": "Borussia Dortmund",
+        "start": 2008,
+        "end": 2016,
+        "country": "de"
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2016,
+        "end": 2019,
+        "country": "de"
+      },
+      {
+        "name": "Borussia Dortmund",
+        "start": 2019,
+        "end": 2024,
+        "country": "de"
+      },
+      {
+        "name": "Roma",
+        "start": 2024,
+        "end": 2025,
+        "country": "it"
+      }
+    ]
+  },
+  {
+    "first_name": "Ivan",
+    "last_name": "Rakitić",
+    "clubs": [
+      {
+        "name": "Schalke 04",
+        "start": 2007,
+        "end": 2011,
+        "country": "de"
+      },
+      {
+        "name": "Sevilla",
+        "start": 2011,
+        "end": 2014,
+        "country": "es"
+      },
+      {
+        "name": "Barcelona",
+        "start": 2014,
+        "end": 2020,
+        "country": "es"
+      },
+      {
+        "name": "Sevilla",
+        "start": 2020,
+        "end": 2024,
+        "country": "es"
+      },
+      {
+        "name": "Hajduk Split",
+        "start": 2024,
+        "end": 2025,
+        "country": "hr"
+      }
+    ]
+  },
+  {
+    "first_name": "Pierre",
+    "last_name": "Højbjerg",
+    "clubs": [
+      {
+        "name": "Bayern Munich",
+        "start": 2013,
+        "end": 2016,
+        "country": "de"
+      },
+      {
+        "name": "Schalke 04",
+        "start": 2015,
+        "end": 2016,
+        "country": "de"
+      },
+      {
+        "name": "Southampton",
+        "start": 2016,
+        "end": 2020,
+        "country": "gb"
+      },
+      {
+        "name": "Tottenham Hotspur",
+        "start": 2020,
+        "end": 2024,
+        "country": "gb"
+      },
+      {
+        "name": "Marseille",
+        "start": 2024,
+        "end": 2025,
+        "country": "fr"
+      }
+    ]
+  },
+  {
+    "first_name": "Achraf",
+    "last_name": "Dari",
+    "clubs": [
+      {
+        "name": "Wydad Casablanca",
+        "start": 2018,
+        "end": 2022,
+        "country": "ma"
+      },
+      {
+        "name": "Brest",
+        "start": 2022,
+        "end": 2024,
+        "country": "fr"
+      },
+      {
+        "name": "Al-Ahli",
+        "start": 2024,
+        "end": 2025,
+        "country": "sa"
+      }
+    ]
+  },
+  {
+    "first_name": "Victor",
+    "last_name": "Boniface",
+    "clubs": [
+      {
+        "name": "Bodø/Glimt",
+        "start": 2019,
+        "end": 2022,
+        "country": "no"
+      },
+      {
+        "name": "Union Saint-Gilloise",
+        "start": 2022,
+        "end": 2023,
+        "country": "be"
+      },
+      {
+        "name": "Bayer Leverkusen",
+        "start": 2023,
+        "end": 2025,
+        "country": "de"
+      }
+    ]
+  },
+  {
+    "first_name": "James",
+    "last_name": "Ward-Prowse",
+    "clubs": [
+      {
+        "name": "Southampton",
+        "start": 2012,
+        "end": 2023,
+        "country": "gb"
+      },
+      {
+        "name": "West Ham United",
+        "start": 2023,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Sergio",
+    "last_name": "Agüero",
+    "clubs": [
+      {
+        "name": "Independiente",
+        "start": 2003,
+        "end": 2006,
+        "country": "ar"
+      },
+      {
+        "name": "Atlético Madrid",
+        "start": 2006,
+        "end": 2011,
+        "country": "es"
+      },
+      {
+        "name": "Manchester City",
+        "start": 2011,
+        "end": 2021,
+        "country": "gb"
+      },
+      {
+        "name": "Barcelona",
+        "start": 2021,
+        "end": 2022,
+        "country": "es"
+      }
+    ]
+  },
+  {
+    "first_name": "Gareth",
+    "last_name": "Bale",
+    "clubs": [
+      {
+        "name": "Southampton",
+        "start": 2006,
+        "end": 2007,
+        "country": "gb"
+      },
+      {
+        "name": "Tottenham Hotspur",
+        "start": 2007,
+        "end": 2013,
+        "country": "gb"
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2013,
+        "end": 2022,
+        "country": "es"
+      },
+      {
+        "name": "Tottenham Hotspur",
+        "start": 2020,
+        "end": 2021,
+        "country": "gb"
+      },
+      {
+        "name": "Los Angeles FC",
+        "start": 2022,
+        "end": 2023,
+        "country": "us"
+      }
+    ]
+  },
+  {
+    "first_name": "Jamal",
+    "last_name": "Musiala",
+    "clubs": [
+      {
+        "name": "Bayern Munich",
+        "start": 2020,
+        "end": 2025,
+        "country": "de"
+      }
+    ]
+  },
+  {
+    "first_name": "Florian",
+    "last_name": "Wirtz",
+    "clubs": [
+      {
+        "name": "Bayer Leverkusen",
+        "start": 2020,
+        "end": 2025,
+        "country": "de"
+      }
+    ]
+  },
+  {
+    "first_name": "Rúben",
+    "last_name": "Neves",
+    "clubs": [
+      {
+        "name": "Porto",
+        "start": 2014,
+        "end": 2017,
+        "country": "pt"
+      },
+      {
+        "name": "Wolverhampton Wanderers",
+        "start": 2017,
+        "end": 2023,
+        "country": "gb"
+      },
+      {
+        "name": "Al-Hilal",
+        "start": 2023,
+        "end": 2025,
+        "country": "sa"
+      }
+    ]
+  },
+  {
+    "first_name": "João",
+    "last_name": "Palhinha",
+    "clubs": [
+      {
+        "name": "Braga",
+        "start": 2014,
+        "end": 2015,
+        "country": "pt"
+      },
+      {
+        "name": "Moreirense",
+        "start": 2015,
+        "end": 2016,
+        "country": "pt"
+      },
+      {
+        "name": "Belenenses",
+        "start": 2017,
+        "end": 2018,
+        "country": "pt"
+      },
+      {
+        "name": "Sporting CP",
+        "start": 2018,
+        "end": 2022,
+        "country": "pt"
+      },
+      {
+        "name": "Fulham",
+        "start": 2022,
+        "end": 2024,
+        "country": "gb"
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2024,
+        "end": 2025,
+        "country": "de"
+      }
+    ]
+  },
+  {
+    "first_name": "Mikel",
+    "last_name": "Merino",
+    "clubs": [
+      {
+        "name": "Osasuna",
+        "start": 2014,
+        "end": 2016,
+        "country": "es"
+      },
+      {
+        "name": "Borussia Dortmund",
+        "start": 2016,
+        "end": 2017,
+        "country": "de"
+      },
+      {
+        "name": "Newcastle United",
+        "start": 2017,
+        "end": 2018,
+        "country": "gb"
+      },
+      {
+        "name": "Real Sociedad",
+        "start": 2018,
+        "end": 2024,
+        "country": "es"
+      },
+      {
+        "name": "Arsenal",
+        "start": 2024,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Rodrigo",
+    "last_name": "Bentancur",
+    "clubs": [
+      {
+        "name": "Boca Juniors",
+        "start": 2015,
+        "end": 2017,
+        "country": "ar"
+      },
+      {
+        "name": "Juventus",
+        "start": 2017,
+        "end": 2022,
+        "country": "it"
+      },
+      {
+        "name": "Tottenham Hotspur",
+        "start": 2022,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Alexis",
+    "last_name": "Mac Allister",
+    "clubs": [
+      {
+        "name": "Argentinos Juniors",
+        "start": 2016,
+        "end": 2019,
+        "country": "ar"
+      },
+      {
+        "name": "Boca Juniors",
+        "start": 2019,
+        "end": 2020,
+        "country": "ar"
+      },
+      {
+        "name": "Brighton & Hove Albion",
+        "start": 2019,
+        "end": 2023,
+        "country": "gb"
+      },
+      {
+        "name": "Liverpool",
+        "start": 2023,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Enzo",
+    "last_name": "Fernández",
+    "clubs": [
+      {
+        "name": "River Plate",
+        "start": 2019,
+        "end": 2022,
+        "country": "ar"
+      },
+      {
+        "name": "Defensa y Justicia",
+        "start": 2020,
+        "end": 2021,
+        "country": "ar"
+      },
+      {
+        "name": "Benfica",
+        "start": 2022,
+        "end": 2023,
+        "country": "pt"
+      },
+      {
+        "name": "Chelsea",
+        "start": 2023,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "James",
+    "last_name": "Maddison",
+    "clubs": [
+      {
+        "name": "Norwich City",
+        "start": 2016,
+        "end": 2018,
+        "country": "gb"
+      },
+      {
+        "name": "Leicester City",
+        "start": 2018,
+        "end": 2023,
+        "country": "gb"
+      },
+      {
+        "name": "Tottenham Hotspur",
+        "start": 2023,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Bruno",
+    "last_name": "Guimarães",
+    "clubs": [
+      {
+        "name": "Athletico Paranaense",
+        "start": 2017,
+        "end": 2020,
+        "country": "br"
+      },
+      {
+        "name": "Lyon",
+        "start": 2020,
+        "end": 2022,
+        "country": "fr"
+      },
+      {
+        "name": "Newcastle United",
+        "start": 2022,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Khéphren",
+    "last_name": "Thuram",
+    "clubs": [
+      {
+        "name": "Nice",
+        "start": 2019,
+        "end": 2024,
+        "country": "fr"
+      },
+      {
+        "name": "Juventus",
+        "start": 2024,
+        "end": 2025,
+        "country": "it"
+      }
+    ]
+  },
+  {
+    "first_name": "Rasmus",
+    "last_name": "Højlund",
+    "clubs": [
+      {
+        "name": "Copenhagen",
+        "start": 2020,
+        "end": 2022,
+        "country": "dk"
+      },
+      {
+        "name": "Sturm Graz",
+        "start": 2022,
+        "end": 2022,
+        "country": "at"
+      },
+      {
+        "name": "Atalanta",
+        "start": 2022,
+        "end": 2023,
+        "country": "it"
+      },
+      {
+        "name": "Manchester United",
+        "start": 2023,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Lorenzo",
+    "last_name": "Insigne",
+    "clubs": [
+      {
+        "name": "Napoli",
+        "start": 2010,
+        "end": 2022,
+        "country": "it"
+      },
+      {
+        "name": "Toronto FC",
+        "start": 2022,
+        "end": 2025,
+        "country": "ca"
+      }
+    ]
+  },
+  {
+    "first_name": "Hirving",
+    "last_name": "Lozano",
+    "clubs": [
+      {
+        "name": "Pachuca",
+        "start": 2014,
+        "end": 2017,
+        "country": "mx"
+      },
+      {
+        "name": "PSV Eindhoven",
+        "start": 2017,
+        "end": 2019,
+        "country": "nl"
+      },
+      {
+        "name": "Napoli",
+        "start": 2019,
+        "end": 2023,
+        "country": "it"
+      },
+      {
+        "name": "PSV Eindhoven",
+        "start": 2023,
+        "end": 2024,
+        "country": "nl"
+      },
+      {
+        "name": "San Diego FC",
+        "start": 2024,
+        "end": 2025,
+        "country": "us"
+      }
+    ]
+  },
+  {
+    "first_name": "Christian",
+    "last_name": "Eriksen",
+    "clubs": [
+      {
+        "name": "Ajax",
+        "start": 2010,
+        "end": 2013,
+        "country": "nl"
+      },
+      {
+        "name": "Tottenham Hotspur",
+        "start": 2013,
+        "end": 2020,
+        "country": "gb"
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2020,
+        "end": 2021,
+        "country": "it"
+      },
+      {
+        "name": "Brentford",
+        "start": 2022,
+        "end": 2022,
+        "country": "gb"
+      },
+      {
+        "name": "Manchester United",
+        "start": 2022,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "Casemiro",
+    "last_name": "",
+    "clubs": [
+      {
+        "name": "São Paulo",
+        "start": 2010,
+        "end": 2013,
+        "country": "br"
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2013,
+        "end": 2022,
+        "country": "es"
+      },
+      {
+        "name": "Porto",
+        "start": 2014,
+        "end": 2015,
+        "country": "pt"
+      },
+      {
+        "name": "Manchester United",
+        "start": 2022,
+        "end": 2025,
+        "country": "gb"
+      }
+    ]
+  },
+  {
+    "first_name": "David",
+    "last_name": "Villa",
+    "clubs": [
+      {
+        "name": "Sporting Gijón",
+        "start": 2001,
+        "end": 2003,
+        "country": "es"
+      },
+      {
+        "name": "Zaragoza",
+        "start": 2003,
+        "end": 2005,
+        "country": "es"
+      },
+      {
+        "name": "Valencia",
+        "start": 2005,
+        "end": 2010,
+        "country": "es"
+      },
+      {
+        "name": "Barcelona",
+        "start": 2010,
+        "end": 2013,
+        "country": "es"
+      },
+      {
+        "name": "Atlético Madrid",
+        "start": 2013,
+        "end": 2014,
+        "country": "es"
+      },
+      {
+        "name": "New York City FC",
+        "start": 2014,
+        "end": 2018,
+        "country": "us"
+      }
+    ]
+  },
+  {
+    "first_name": "Thiago",
+    "last_name": "Alcântara",
+    "clubs": [
+      {
+        "name": "Barcelona",
+        "start": 2009,
+        "end": 2013,
+        "country": "es"
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2013,
+        "end": 2020,
+        "country": "de"
+      },
+      {
+        "name": "Liverpool",
+        "start": 2020,
+        "end": 2024,
+        "country": "gb"
+      },
+      {
+        "name": "Flamengo",
+        "start": 2024,
+        "end": 2025,
+        "country": "br"
       }
     ]
   }
